@@ -1,0 +1,38 @@
+[
+    {
+        "className": "end",
+        "stateImg": "/assets/images/check.png",
+        "name": "Hit the gym",
+        "categoryImg": "/assets/images/gym.png"
+    },
+    {
+        "className": "end",
+        "stateImg": "/assets/images/check.png",
+        "name": "Pay bills",
+        "categoryImg": "/assets/images/bill.png"
+    },
+    {
+        "className": "inprogress",
+        "stateImg": "/assets/images/doing.png",
+        "name": "Meet George",
+        "categoryImg": "/assets/images/dance.png"
+    },
+    {
+        "className": "inprogress",
+        "stateImg": "/assets/images/doing.png",
+        "name": "Buy eggs",
+        "categoryImg": "/assets/images/eat.png"
+    },
+    {
+        "className": "start",
+        "stateImg": "/assets/images/no.png",
+        "name": "Read a book",
+        "categoryImg": "/assets/images/book.png"
+    },
+    {
+        "className": "start",
+        "stateImg": "/assets/images/no.png",
+        "name": "Organize office",
+        "categoryImg": "/assets/images/organize.png"
+    }
+]

@@ -1,0 +1,34 @@
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+li{
+    display: flex;
+    list-style: none;
+}
+
+.end{
+    color: red;
+    text-decoration: line-through;
+}
+
+.inprogress{
+    background: lightblue;
+}
+
+.start{
+    text-decoration: underline;
+}
+
+.headline::first-letter{
+    font-weight: bold;
+    color: red;
+
+    & headline::first-letter:hover{
+        color: blue
+    }
+}
+    
+
